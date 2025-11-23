@@ -39,3 +39,26 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# api build
+api/dist
+api/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+ml_service/__pycache__/
+ml_service/*.pyc
+
+# ML models (large files - uncomment if you want to exclude)
+# ml_service/models/*.pkl
+# ml_service/models/*.txt
+
+# CSV dataset (large file - uncomment if you want to exclude)
+# ai4i2020 (1).csv
