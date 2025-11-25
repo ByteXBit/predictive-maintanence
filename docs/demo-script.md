@@ -2,7 +2,6 @@
 
 ## Overview
 This script provides a step-by-step walkthrough for demonstrating the Predictive Maintenance Software. Follow these 10 steps to showcase the key features and workflows.
-
 ---
 
 ## Demo Walkthrough (10 Steps)
@@ -34,7 +33,7 @@ This script provides a step-by-step walkthrough for demonstrating the Predictive
 - **Point to demonstrate:** Machine inventory management, status visualization
 
 ### 4. **Open a Machine and Run Prediction**
-- Click "Predict" button on "Machine B - Production Line 2" (has warning status)
+- Click the "Predict" button on "Machine B - Production Line 2" (has warning status)
 - In the modal:
   - Show date range selector (default: last 30 days)
   - Click "Run Prediction"
@@ -141,7 +140,7 @@ This script provides a step-by-step walkthrough for demonstrating the Predictive
 
 ## Additional Features to Mention (if time permits)
 
-- **Machine Details:** Click on machine name to see detailed information
+- **Machine Details:** Click on the machine name to see detailed information
 - **Date Filtering:** Filter predictions/alerts by date range
 - **Risk Levels:** Color-coded risk indicators throughout the app
 - **Model Versioning:** Track which ML model version was used
